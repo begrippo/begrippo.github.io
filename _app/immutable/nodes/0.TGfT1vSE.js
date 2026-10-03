@@ -1,1 +1,0 @@
-import{t as e}from"../chunks/DK3Fl9T5.js";import{_ as t,a as n,d as r,g as i,j as a,v as o}from"../chunks/CW6COAmq.js";var s=e({prerender:()=>!0,trailingSlash:()=>c}),c=`always`,l=o(`<link rel="icon" href="/favicon.svg" type="image/svg+xml"/>`);function u(e,o){var s=t();n(`12qhfyh`,e=>{var t=l();i(e,t)});var c=a(s);r(c,()=>o.children),i(e,s)}export{u as component,s as universal};
