@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" width="500" height="380">
+  <rect width="500" height="380" fill="#ffffff"/>
+  
+  <text x="40" y="62" font-family="Newsreader, Georgia, serif" font-size="21" font-weight="500" fill="#8a8792" letter-spacing="-0.4">Enterprise</text>
+  <line x1="40" y1="86" x2="460" y2="86" stroke="#eaeaea" stroke-width="1.5"/>
+  <text x="40" y="140" font-family="Newsreader, Georgia, serif" font-size="30" font-weight="500" fill="#080808" letter-spacing="-0.8">Semrush</text>
+  <line x1="40" y1="158" x2="460" y2="158" stroke="#eaeaea" stroke-width="1.5"/>
+  <text x="40" y="216.66666666666669" font-family="Newsreader, Georgia, serif" font-size="30" font-weight="500" fill="#080808" letter-spacing="-0.8">Publicis</text>
+  <line x1="40" y1="234.66666666666669" x2="460" y2="234.66666666666669" stroke="#eaeaea" stroke-width="1.5"/>
+  <text x="40" y="293.33333333333337" font-family="Newsreader, Georgia, serif" font-size="30" font-weight="500" fill="#080808" letter-spacing="-0.8">LC Waikiki</text>
+  <line x1="40" y1="311.33333333333337" x2="460" y2="311.33333333333337" stroke="#eaeaea" stroke-width="1.5"/>
+</svg>

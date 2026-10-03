@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" width="500" height="380">
+  <rect width="500" height="380" fill="#ffffff"/>
+  
+  <text x="40" y="62" font-family="Newsreader, Georgia, serif" font-size="21" font-weight="500" fill="#8a8792" letter-spacing="-0.4">Palabra.ai</text>
+  <line x1="40" y1="86" x2="460" y2="86" stroke="#eaeaea" stroke-width="1.5"/>
+  <text x="40" y="224" font-family="Newsreader, Georgia, serif" font-size="78" font-weight="500" fill="#080808" letter-spacing="-2">60+</text>
+  <text x="40" y="336" font-family="Newsreader, Georgia, serif" font-size="21" font-weight="400" fill="#8a8792" letter-spacing="-0.4">languages, sub-1s latency</text>
+</svg>
